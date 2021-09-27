@@ -1,3 +1,11 @@
+[![issue](https://img.shields.io/github/issues/miyuki2002/Meyoinao?style=for-the-badge)](https://github.com/miyuki2002/Meyoinao/issues)
+[![package.json](https://img.shields.io/github/package-json/v/miyuki2002/Meyoinao?label=Package.json&style=for-the-badge)](https://github.com/miyuki2002/Meyoinao/blob/main/package.json)
+[![GitHub contributors](https://img.shields.io/github/contributors/miyuki2002/Meyoinao?color=g&style=for-the-badge)](https://img.shields.io/github/contributors/miyuki2002/Meyoinao?color=g&style=for-the-badge)
+![Travis (.org) branch](https://img.shields.io/travis/miyuki2002/Meyoinao/master?label=Travis-CI&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/miyuki2002/Meyoinao?style=for-the-badge)
+[![David](https://img.shields.io/david/miyuki2002/Meyoinao?style=for-the-badge)](https://david-dm.org/miyuki2002/Meyoinao)
+![Codacy grade](https://img.shields.io/codacy/grade/641d77710a564cebba4f2b75b9f3a97d?logo=codacy&style=for-the-badge)
+
 ## Meyoinao
 >Meyoinao is an easy to use, simple music bot. Play, loop, pause, resume, skip, loudify, and bassboost songs.  Get started by inviting it to your discord.
 
